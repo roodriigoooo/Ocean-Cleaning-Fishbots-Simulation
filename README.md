@@ -1,9 +1,6 @@
 # Ocean-Cleaning-Fishbots-Simulation
 
-**Needs urgent update, cleaning and restructuring**
-
-### Overview
-The Python project is designed to model and simulate the efficiency of autonomous fishbots in cleaning a predefined ocean grid area. The simulation assesses how quickly fishbots can clean a certain percentage of the ocean grid, influenced by the number of fishbots, their movement strategies, and the grid's dimensions. Visualization functions are included to illustrate the performance differences between standard movement strategies and random walks.
+Model and simulate the efficiency of autonomous fishbots in cleaning a predefined ocean grid area. The simulation assesses how quickly fishbots can clean a certain percentage of the ocean grid, influenced by the number of fishbots, their movement strategies, and the grid's dimensions. Visualization functions are included to illustrate the performance differences between standard movement strategies and random walks.
 
 ### Classes and Basic Functionality:
 
